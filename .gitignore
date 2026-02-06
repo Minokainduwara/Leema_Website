@@ -39,6 +39,7 @@ pip-delete-this-directory.txt
 *.json
 firebase-debug.log
 firebase-debug.*.log
+!package.json
 
 # =========================
 # Docker
